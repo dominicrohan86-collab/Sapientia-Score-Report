@@ -24,6 +24,17 @@ Assessment reports often over-index on numbers and under-explain what families s
 - Include a print/PDF-style view that feels intentionally designed.
 - Document implementation patterns in a handoff page.
 
+## Design Preview
+
+Home Page
+<img width="1728" height="913" alt="Screenshot 2026-05-01 at 2 59 51 AM" src="https://github.com/user-attachments/assets/c9695d68-9ac6-45bc-b685-773c87abfb59" />
+
+Score Summary
+<img width="1728" height="913" alt="Screenshot 2026-05-01 at 3 01 05 AM" src="https://github.com/user-attachments/assets/a50c2c10-c372-4919-b0aa-32e85bdd9255" />
+
+PDF Download of Score
+[Sapientia Score Report copy.pdf](https://github.com/user-attachments/files/27270616/Sapientia.Score.Report.copy.pdf)
+
 ## Key screens
 
 - Full score report with report hero, score summary, domains, growth story, and recommendations.
