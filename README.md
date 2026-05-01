@@ -33,7 +33,7 @@ Score Summary
 <img width="1728" height="913" alt="Screenshot 2026-05-01 at 3 01 05 AM" src="https://github.com/user-attachments/assets/a50c2c10-c372-4919-b0aa-32e85bdd9255" />
 
 PDF Download of Score
-[Sapientia Score Report copy.pdf](https://github.com/user-attachments/files/27270616/Sapientia.Score.Report.copy.pdf)
+<img width="661" height="854" alt="Screenshot 2026-05-01 at 3 05 07 AM" src="https://github.com/user-attachments/assets/540ad9ae-5efb-48c8-88cf-709a5ffb5b57" />
 
 ## Key screens
 
